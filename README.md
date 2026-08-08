@@ -42,6 +42,7 @@
 - Arduino
 - STM32
 - OpenCR
+- OpenCV
 - ATmega128
 - Cortex-M3
 - 센서 인터페이스
